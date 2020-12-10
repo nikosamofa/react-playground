@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Message component renders the UI as expected 1`] = `
+<div
+  className="messages"
+>
+  Messages
+  <div
+    className="unread_count badge"
+  >
+    4
+  </div>
+</div>
+`;
+
+exports[`Message component renders the UI without crashing 1`] = `
+<div
+  className="messages"
+>
+  Messages
+</div>
+`;
+
+exports[`Message tests renders the UI as expected 1`] = `
+<div
+  className="messages"
+>
+  Messages
+  <div
+    className="unread_count badge"
+  >
+    4
+  </div>
+</div>
+`;
+
+exports[`Message tests renders the UI without crashing 1`] = `
+<div
+  className="messages"
+>
+  Messages
+</div>
+`;
+
+exports[`renders the UI as expected 1`] = `
+<div
+  className="messages"
+>
+  Messages
+  <div
+    className="unread_count"
+  >
+    4
+  </div>
+</div>
+`;
+
+exports[`renders the UI without crashing 1`] = `
+<div
+  className="messages"
+>
+  Messages
+</div>
+`;
