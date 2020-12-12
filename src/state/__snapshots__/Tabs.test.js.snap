@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tabs component renders the first Tab by default 1`] = `
+<div>
+  <button>
+    First tab
+  </button>
+  <button>
+    Second tab
+  </button>
+  <button>
+    Third tab
+  </button>
+  <div
+    className="content"
+  >
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam exercitationem quos consectetur expedita consequatur. Fugit, sapiente aspernatur corporis velit, dolor eum reprehenderit provident ipsam, maiores incidunt repellat! Facilis, neque doloremque.
+  </div>
+</div>
+`;
